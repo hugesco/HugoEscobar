@@ -1,0 +1,13 @@
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\bin\Debug\restaurante_5ca.exe.config
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\bin\Debug\restaurante_5ca.exe
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\bin\Debug\restaurante_5ca.pdb
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\bin\Debug\restaurante_5ca.xml
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.vbproj.AssemblyReference.cache
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.Resources.resources
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.Sucursales.resources
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.vbproj.GenerateResource.cache
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.exe
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.xml
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.pdb
+C:\Users\Carlos Hugo\source\repos\restaurante_5ca\restaurante_5ca\obj\Debug\restaurante_5ca.Form1.resources
